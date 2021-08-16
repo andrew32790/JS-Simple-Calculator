@@ -1,0 +1,68 @@
+body{
+    background-image:url(https://wallpaperaccess.com/full/1837392.jpg)
+}
+
+
+
+.maindiv{
+    margin: auto;
+    max-width: 1920px;
+    border: 3px solid black;
+    padding: 155px;
+    background-image: url();
+    text-align: center;
+    position: inherit;
+}
+
+
+.btnstyle{
+    background-color: dimgray;
+    font-size: 125px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius: 8px; 
+    width: 10%;
+    
+    
+   
+    
+}
+
+.inputstyle{
+    font-size: 25px;
+}
+.eqbtnstyle{
+    width: 40.70%;
+    background-color: dimgray;
+    font-size: 125px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius: 10px
+}
+
+.eqbtnstyle:hover{
+    background-color: crimson;
+    color: white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    transition-duration: 0.4s;
+}
+.btnstyle:hover {
+    background-color: crimson;
+    color: white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    transition-duration: 0.4s;
+  }
+
+  .cdiv{
+    margin: auto;
+    width: 97%;
+    height: 50px;
+    border: 3px solid black;
+    padding: 1px;
+    background-color: whitesmoke;
+    text-align: right;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 45px;
+    
+
+  }
+
+  
